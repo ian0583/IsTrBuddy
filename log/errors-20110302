@@ -1,0 +1,10 @@
+[2011-03-02 22:49:19]
+WARNING [2]
+unlink(G:\Development\istrbuddy/application/views/.smarty/.compiled/\%%72^72D^72DAF6E8%%main.tpl.php) [function.unlink]: No such file or directory
+Code is on line 44 in file G:\Development\istrbuddy\lib\Smarty\libs\internals\core.write_file.php
+
+[2011-03-02 22:49:19]
+WARNING [2]
+unlink(G:\Development\istrbuddy/application/views/.smarty/.compiled/\%%EB^EB7^EB7FE9FC%%home.tpl.php) [function.unlink]: No such file or directory
+Code is on line 44 in file G:\Development\istrbuddy\lib\Smarty\libs\internals\core.write_file.php
+
